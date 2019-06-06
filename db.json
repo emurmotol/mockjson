@@ -3,9 +3,5 @@
     "remainingBalance": 100.00,
     "referenceId": "myownid",
     "unitCost": 0.50,
-    "transactionCost": 0.50,
-    "operatorCode": "PHLSMART",
-    "messageParts": 1,
-    "from" : "DEMO",
-    "to" : "639170000001"
+    "transactionCost": 0.50
 }
